@@ -1,0 +1,78 @@
+Simulando pipeline DESBALANCEADO...
+Simulação 01 | Acc: 0.9129 | Prec: 0.9302 | Recall: 0.9757 | F1: 0.9524
+Simulação 02 | Acc: 0.9135 | Prec: 0.9308 | Recall: 0.9757 | F1: 0.9527
+Simulação 03 | Acc: 0.9129 | Prec: 0.9302 | Recall: 0.9757 | F1: 0.9524
+Simulação 04 | Acc: 0.9135 | Prec: 0.9305 | Recall: 0.9760 | F1: 0.9527
+Simulação 05 | Acc: 0.9128 | Prec: 0.9298 | Recall: 0.9761 | F1: 0.9524
+Simulação 06 | Acc: 0.9121 | Prec: 0.9303 | Recall: 0.9746 | F1: 0.9519
+Simulação 07 | Acc: 0.9117 | Prec: 0.9299 | Recall: 0.9746 | F1: 0.9517
+Simulação 08 | Acc: 0.9134 | Prec: 0.9310 | Recall: 0.9754 | F1: 0.9527
+Simulação 09 | Acc: 0.9135 | Prec: 0.9308 | Recall: 0.9756 | F1: 0.9527
+Simulação 10 | Acc: 0.9130 | Prec: 0.9308 | Recall: 0.9751 | F1: 0.9524
+Simulação 11 | Acc: 0.9125 | Prec: 0.9304 | Recall: 0.9749 | F1: 0.9521
+Simulação 12 | Acc: 0.9131 | Prec: 0.9306 | Recall: 0.9755 | F1: 0.9525
+Simulação 13 | Acc: 0.9135 | Prec: 0.9312 | Recall: 0.9751 | F1: 0.9527
+Simulação 14 | Acc: 0.9131 | Prec: 0.9299 | Recall: 0.9763 | F1: 0.9525
+Simulação 15 | Acc: 0.9139 | Prec: 0.9309 | Recall: 0.9761 | F1: 0.9529
+Simulação 16 | Acc: 0.9123 | Prec: 0.9306 | Recall: 0.9745 | F1: 0.9520
+Simulação 17 | Acc: 0.9123 | Prec: 0.9307 | Recall: 0.9743 | F1: 0.9520
+Simulação 18 | Acc: 0.9138 | Prec: 0.9307 | Recall: 0.9761 | F1: 0.9529
+Simulação 19 | Acc: 0.9140 | Prec: 0.9305 | Recall: 0.9767 | F1: 0.9530
+Simulação 20 | Acc: 0.9124 | Prec: 0.9302 | Recall: 0.9749 | F1: 0.9521
+Simulação 21 | Acc: 0.9134 | Prec: 0.9304 | Recall: 0.9761 | F1: 0.9527
+Simulação 22 | Acc: 0.9141 | Prec: 0.9311 | Recall: 0.9760 | F1: 0.9530
+Simulação 23 | Acc: 0.9129 | Prec: 0.9303 | Recall: 0.9755 | F1: 0.9524
+Simulação 24 | Acc: 0.9135 | Prec: 0.9309 | Recall: 0.9756 | F1: 0.9527
+Simulação 25 | Acc: 0.9135 | Prec: 0.9312 | Recall: 0.9752 | F1: 0.9527
+Simulação 26 | Acc: 0.9133 | Prec: 0.9304 | Recall: 0.9758 | F1: 0.9526
+Simulação 27 | Acc: 0.9135 | Prec: 0.9307 | Recall: 0.9758 | F1: 0.9527
+Simulação 28 | Acc: 0.9136 | Prec: 0.9316 | Recall: 0.9748 | F1: 0.9527
+Simulação 29 | Acc: 0.9141 | Prec: 0.9312 | Recall: 0.9760 | F1: 0.9530
+Simulação 30 | Acc: 0.9125 | Prec: 0.9299 | Recall: 0.9755 | F1: 0.9522
+Simulando pipeline BALANCEADO (SMOTE)...
+Simulação 01 | Acc: 0.8146 | Prec: 0.9791 | Recall: 0.8096 | F1: 0.8863
+Simulação 02 | Acc: 0.8158 | Prec: 0.9794 | Recall: 0.8107 | F1: 0.8871
+Simulação 03 | Acc: 0.8148 | Prec: 0.9793 | Recall: 0.8096 | F1: 0.8864
+Simulação 04 | Acc: 0.8172 | Prec: 0.9797 | Recall: 0.8121 | F1: 0.8881
+Simulação 05 | Acc: 0.8154 | Prec: 0.9795 | Recall: 0.8101 | F1: 0.8868
+Simulação 06 | Acc: 0.8160 | Prec: 0.9793 | Recall: 0.8110 | F1: 0.8873
+Simulação 07 | Acc: 0.8146 | Prec: 0.9798 | Recall: 0.8090 | F1: 0.8863
+Simulação 08 | Acc: 0.8169 | Prec: 0.9796 | Recall: 0.8118 | F1: 0.8878
+Simulação 09 | Acc: 0.8142 | Prec: 0.9795 | Recall: 0.8088 | F1: 0.8860
+Simulação 10 | Acc: 0.8169 | Prec: 0.9801 | Recall: 0.8115 | F1: 0.8878
+Simulação 11 | Acc: 0.8157 | Prec: 0.9784 | Recall: 0.8114 | F1: 0.8871
+Simulação 12 | Acc: 0.8140 | Prec: 0.9800 | Recall: 0.8082 | F1: 0.8858
+Simulação 13 | Acc: 0.8145 | Prec: 0.9794 | Recall: 0.8093 | F1: 0.8862
+Simulação 14 | Acc: 0.8163 | Prec: 0.9799 | Recall: 0.8109 | F1: 0.8874
+Simulação 15 | Acc: 0.8159 | Prec: 0.9797 | Recall: 0.8105 | F1: 0.8871
+Simulação 16 | Acc: 0.8143 | Prec: 0.9796 | Recall: 0.8089 | F1: 0.8861
+Simulação 17 | Acc: 0.8164 | Prec: 0.9794 | Recall: 0.8114 | F1: 0.8875
+Simulação 18 | Acc: 0.8152 | Prec: 0.9803 | Recall: 0.8093 | F1: 0.8866
+Simulação 19 | Acc: 0.8181 | Prec: 0.9809 | Recall: 0.8120 | F1: 0.8885
+Simulação 20 | Acc: 0.8149 | Prec: 0.9798 | Recall: 0.8094 | F1: 0.8865
+Simulação 21 | Acc: 0.8154 | Prec: 0.9797 | Recall: 0.8100 | F1: 0.8868
+Simulação 22 | Acc: 0.8152 | Prec: 0.9796 | Recall: 0.8099 | F1: 0.8867
+Simulação 23 | Acc: 0.8159 | Prec: 0.9793 | Recall: 0.8109 | F1: 0.8872
+Simulação 24 | Acc: 0.8140 | Prec: 0.9799 | Recall: 0.8083 | F1: 0.8859
+Simulação 25 | Acc: 0.8170 | Prec: 0.9807 | Recall: 0.8110 | F1: 0.8878
+Simulação 26 | Acc: 0.8155 | Prec: 0.9792 | Recall: 0.8105 | F1: 0.8869
+Simulação 27 | Acc: 0.8187 | Prec: 0.9798 | Recall: 0.8137 | F1: 0.8891
+Simulação 28 | Acc: 0.8165 | Prec: 0.9793 | Recall: 0.8117 | F1: 0.8876
+Simulação 29 | Acc: 0.8155 | Prec: 0.9801 | Recall: 0.8098 | F1: 0.8869
+Simulação 30 | Acc: 0.8166 | Prec: 0.9796 | Recall: 0.8114 | F1: 0.8876
+
+MÉDIA DOS RESULTADOS (Desbalanceado):
+sim          15.500000
+accuracy      0.913161
+precision     0.930581
+recall        0.975504
+f1-score      0.952513
+dtype: float64
+
+MÉDIA DOS RESULTADOS (Balanceado com SMOTE):
+sim          15.500000
+accuracy      0.815732
+precision     0.979669
+recall        0.810427
+f1-score      0.887047
+dtype: float64
